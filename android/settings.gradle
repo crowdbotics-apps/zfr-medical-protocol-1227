@@ -1,0 +1,3 @@
+rootProject.name = 'zfr_medical_protocol_1227'
+
+include ':app'
